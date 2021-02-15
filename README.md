@@ -15,7 +15,12 @@ le rang qui est sa position dans la famille.
 
 Il permet de capturer et de génerer les informations extraites dans des graphes complexes ou graphes de Terrain.
 
-## Contact : 
-
+## Contact
 * contact@boostasoft.com
+## Projets
+* https://getjobs.careers.com
+* https://boostasoft.com/covid-alert/index.html
+## Paypal support 
+* https://www.paypal.com/donate?hosted_button_id=PWNATBXSE3VVU
+
 
