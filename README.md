@@ -18,7 +18,7 @@ Il permet de capturer et de génerer les informations extraites dans des graphes
 ## Contact
 * contact@boostasoft.com
 ## Projects
-* https://getjobs.careers.com
+* https://www.getjobs.careers
 * https://boostasoft.com/covid-alert/index.html
 ## Paypal support 
 * https://www.paypal.com/donate?hosted_button_id=PWNATBXSE3VVU
